@@ -17,7 +17,7 @@ The purpose of this project was to create a visualization analysis of the NYC bi
 - As shown, bikes are mostly checked out around 4 to 6 pm. 
 
 2. <img width="1066" alt="Screen Shot 2021-10-08 at 7 34 44 PM" src="https://user-images.githubusercontent.com/86751774/136638375-98abe7d6-4f3a-43fb-a6b9-f4a01720b72c.png">
-- 
+- Male users take rides approximately 3 times more than females and those users who fall under the unknown category take drastically less rides than both male and female users. 
 
 3. <img width="603" alt="Screen Shot 2021-10-08 at 7 32 26 PM" src="https://user-images.githubusercontent.com/86751774/136638377-7c8c1431-5f7e-4d9f-aa31-bb17a4a0447f.png">
 - 
