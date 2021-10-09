@@ -11,6 +11,7 @@ The purpose of this project was to create a visualization analysis of the NYC bi
 ### Tableau Story
 [Link to dashboard](https://public.tableau.com/app/profile/sunisa.pradhan/viz/NYCCitibikeAnalysis_16337342448720/NYCCitibikeAnalysis?publish=yes "link to dashboard")
 
+### NYC Citibike Visualizations
 <img width="1120" alt="Screen Shot 2021-10-08 at 7 34 17 PM" src="https://user-images.githubusercontent.com/86751774/136638370-4ba46dba-97b1-4e6f-9b5c-a4ae90fa82aa.png">
 - 
 
