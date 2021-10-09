@@ -13,7 +13,7 @@ The purpose of this project was to create a visualization analysis of the NYC bi
 
 ### NYC Citibike Visualizations
 <img width="1120" alt="Screen Shot 2021-10-08 at 7 34 17 PM" src="https://user-images.githubusercontent.com/86751774/136638370-4ba46dba-97b1-4e6f-9b5c-a4ae90fa82aa.png">
-- As shown by the image, bikes are mostly checked out around 4 to 6 pm. 
+  * As shown, bikes are mostly checked out around 4 to 6 pm. 
 
 <img width="1066" alt="Screen Shot 2021-10-08 at 7 34 44 PM" src="https://user-images.githubusercontent.com/86751774/136638375-98abe7d6-4f3a-43fb-a6b9-f4a01720b72c.png">
 - 
