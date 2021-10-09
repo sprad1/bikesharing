@@ -41,6 +41,7 @@ The purpose of this project was to create a visualization analysis of the NYC bi
 ### Summary
 
 Based on the visualization analysis of the NYC bikesharing data focused in the month of August, majority of the users were male and the rides took place in and around Manhattan. The majority of the rides during the weekday also were during the morning and evening rush hours indicating that in the city, the bikesharing service is used as a means of an alternative to public transportation.
+
 Additional analysis that could be beneficial with the given data set:
 - display the starting and ending locations during the morning and evening rush hour
 - average trip duration but with the gender to see if there is a difference in how long the users ride as they age and by their gender
